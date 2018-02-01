@@ -5,7 +5,7 @@ O Front-end foi desenvolvido pelo brother Maikon Melo e pode ser encontrado em:
 https://github.com/dionmaicon/predict_weka_front
 <p>
 Trata-se de uma versão de testes que estavamos implementando a nível de curiosidade. Os dados gerados para o dataset são randomicos e podem ser encontrados nos diretorios da API (files) que contem também uma versão do WEKA.</p> Se quiser continuar esse projeto e precisar de qualquer ajuda, entre em contato: dionmaicon@outlook.com
-
+<br>
 Para rodar Back-end API:
 
 <ol>1 - Faça o download https://github.com/dionmaicon/predict_weka_api e descompacte.</ol>
@@ -14,7 +14,7 @@ npm install
 <ol>3 - Agora pode rodar o projeto com o comando:</ol>
 nodemon server.js
 (Para instalar o nodemon digite: npm install -g nodemon)
-
+<br>
 Para rodar o projeto Front-end:
 
 <ol>1 - Faça o download do repositorio https://github.com/dionmaicon/predict_weka_front.</ol>
