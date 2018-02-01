@@ -1,0 +1,17 @@
+@relation Dengue_Chikungunya_Zika
+@attribute idade {'0-5', '6-14', '15-49', '50-99'}
+@attribute sexo {'masc','fem'}
+@attribute febre-repentina {'sim', 'nao'}
+@attribute febre {'37-37.9','38-40'}
+@attribute duracao-febre{'0-2','2-3','2-7'}
+@attribute dor-articulacao {'leve','moderada','intensa'}
+@attribute inchaco-articulacao{'sim', 'nao', 'raro'}
+@attribute dor-de-cabeca {'ausente','leve','moderada','intensa'}
+@attribute dor-muscular {'ausente','moderada', 'intensa'}
+@attribute coceira {'ausente','leve','moderada','intensa'}
+@attribute manchas-vermelhas {'sim','nao'}
+@attribute hipertrofia-ganglionar {'sim','nao'}
+@attribute conjuntivite {'sim', 'nao'}
+@attribute 'Class' {'dengue','zika', 'chikungunya'}
+@data
+'15-49','masc','nao','37-37.9','0-2','moderada','nao','ausente','moderada','leve','sim','sim','nao',? 

@@ -1,0 +1,37 @@
+{
+  "name": "predict_weka_api",
+  "version": "1.0.0",
+  "description": "\"API NODE for predict using WEKA j48\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dionmaicon/predict_weka_api.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.1",
+    "express-load": "^1.1.16",
+    "filereader": "^0.10.3",
+    "formidable": "^1.1.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^4.11.14"
+  },
+  "keywords": [
+    "WEKA",
+    "NODE",
+    "API",
+    "Dengue",
+    "Zika",
+    "Chikungunya"
+  ],
+  "author": "Dion Maicon E. Duarte <dionmaicon@tryus.software>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dionmaicon/predict_weka_api/issues"
+  },
+  "homepage": "https://github.com/dionmaicon/predict_weka_api#readme"
+}
