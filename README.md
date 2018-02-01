@@ -1,5 +1,5 @@
 # predict_weka_api
-A API NODE for improved J48 Classification Tree for the Prediction of Dengue, Chikungunya or Zika.
+API NodeJs for improved J48 Classification Tree for the Prediction of Dengue, Chikungunya or Zika.
 Back-end de uma aplicação que realiza consultas numa API. <br>
 O Front-end foi desenvolvido pelo brother Maikon Melo e pode ser encontrado em:
 https://github.com/dionmaicon/predict_weka_front
